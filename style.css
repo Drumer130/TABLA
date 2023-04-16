@@ -1,0 +1,163 @@
+body{
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    margin: auto;
+}
+
+table, tr, th, td{
+    border: 1px solid rgb(15, 10, 10);
+    border-collapse: collapse;
+    width: 1000px;
+    height: 50px;
+    text-align: center;
+}
+
+
+th{
+    text-transform: uppercase;
+}
+
+.container{
+    padding: 100px;
+    
+}
+.container2{
+    margin: 0 auto;
+}
+
+.first{
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    width: 70px;
+    align-items: center;
+    background: #3b9225;
+    text-decoration: none;
+    padding: 8px 5px 8px 2px;
+    color: black;
+    border-radius: 5px;
+    margin: 5px 60px 5px 60px;
+    color: white;
+    
+}
+
+.second{
+  font-family: Arial, Helvetica, sans-serif;
+    /* display: inline-table; */
+    width: 70px;
+    align-items: center;
+    background: rgb(54, 54, 253);
+    text-decoration: none;
+    padding: 8px 5px 8px 8px;
+    color: black;
+    border-radius: 5px 0 0 5px;
+    margin: 5px 0 5px 0;
+    color: white;  
+}
+
+.third{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    width: 70px;
+    align-items: center;
+    background: #ff4141;
+    text-decoration: none;
+    padding: 8px 8px 8px 2px;
+    color: black;
+    border-radius: 0 5px 5px 0;
+    margin: 5px 0 5px 0;
+    color: white;  
+}
+
+/* form style */
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.last1{
+      font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    width: 70px;
+    align-items: center;
+    background: rgba(12, 12, 194, 0.808);
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px 12px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin: 5px 60px 5px 110px;
+}
+
+.last2{
+      font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    width: 70px;
+    align-items: center;
+    background: #f32121cb;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px 12px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin: 5px 40px 5px 135px;
+}
+
+.mainBox{
+    
+    height: 1000px;
+    padding: 80px;
+    
+    
+} 
+
+form{
+    
+    width: 600px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.178);
+    /* padding: 50px 0 0 0; */
+    
+}
+
+label{
+    width: 240px;
+    display: inline-block;
+    text-align: right;
+}
+
+.bueno{
+    text-align: center;
+    margin-top: 0;
+}
+
+.malo{
+    text-align: center;
+    margin-top: 0;
+}
+
+.title{
+    text-align: center;
+    color:green;
+   
+}
+
+/* Exitoso */
+
+.box2{
+   
+    padding-top: 40px;
+max-width: 900px;
+height: 650px;
+margin: 0 auto;
+border-radius: 5px;
+text-transform: uppercase;
+
+}
+
+
+
+    
+
